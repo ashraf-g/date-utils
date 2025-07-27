@@ -1,4 +1,4 @@
-# 🗓️ date-utils
+# 🗓️ light-date-utils
 
 A lightweight, dependency-free JavaScript utility library for common date operations — using native `Date` and `Intl.DateTimeFormat`. Perfect for apps that want **fast, minimal** date utilities without pulling in heavy libraries like `moment` or `dayjs`.
 
@@ -23,11 +23,11 @@ A lightweight, dependency-free JavaScript utility library for common date operat
 ## 🚀 Installation
 
 ```bash
-npm install date-utils
+npm install light-date-utils
 
 or
 
-yarn add date-utils
+yarn add light-date-utils
 
 ```
 
@@ -131,4 +131,5 @@ npm test
 Feel free to open issues or PRs! Simple, readable utilities are the goal — let’s keep it lightweight.
 
 ## 📄 License
-Implementation (c) 2025 Gulam Ashraf. [MIT LICENSE](./LICENSE) 
+
+Implementation (c) 2025 Gulam Ashraf. [MIT LICENSE](./LICENSE)
