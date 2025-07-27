@@ -1,5 +1,5 @@
 {
-  "name": "date-utils",
+  "name": "light-date-utils",
   "version": "1.0.0",
   "description": "Lightweight date utility functions using native JavaScript",
   "main": "src/index.js",
@@ -8,7 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "date-utils"
+    "url": "https://github.com/ashraf-g/date-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/ashraf-g/date-utils/issues"
   },
   "keywords": [
     "date",
