@@ -1,0 +1,25 @@
+{
+  "name": "date-utils",
+  "version": "1.0.0",
+  "description": "Lightweight date utility functions using native JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "date-utils"
+  },
+  "keywords": [
+    "date",
+    "utils",
+    "lightweight",
+    "native",
+    "javascript"
+  ],
+  "author": "Gulam Ashraf",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
